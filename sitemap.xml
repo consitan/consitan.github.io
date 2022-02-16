@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2022/02/16/html%20css%20js/</loc>
+    
+    <lastmod>2022-02-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/categories/index.html</loc>
     
     <lastmod>2022-02-15</lastmod>
@@ -14,15 +23,6 @@
     <loc>http://example.com/tags/index.html</loc>
     
     <lastmod>2022-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2022/02/10/hello-world/</loc>
-    
-    <lastmod>2022-02-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
